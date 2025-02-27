@@ -8,15 +8,13 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Jérôme Gorin
+Enseignant Chercheur en Vie Privée, Cybersécurité et Gestion de la donnée-
 
 
-Disponible XX mois à partir de Date
+[Jerome.Gorin[at]unilasalle.fr](mailto:Jerome.Gorin@unilasalle.fr)
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
-
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[LinkedIn]([https://www.linkedin.com/in/Prenom.Nom](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-gorin-5a79251a/))
 
 Permis B, voiture
 
