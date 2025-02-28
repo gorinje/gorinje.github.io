@@ -16,5 +16,5 @@ Enseignant Chercheur en Vie Privée, Cybersécurité et Gestion de la donnée-
 
 [LinkedIn]([https://www.linkedin.com/in/Prenom.Nom](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-gorin-5a79251a/))
 
-Permis B, voiture
+
 
